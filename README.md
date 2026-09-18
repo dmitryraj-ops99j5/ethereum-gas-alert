@@ -24,4 +24,4 @@ By default it uses the public Cloudflare RPC, so you do not even need an Infura 
 Options:
 python gas_alert.py --help
 
-<!-- verified: 2026-09-17 -->
+<!-- verified: 2026-09-18 -->
